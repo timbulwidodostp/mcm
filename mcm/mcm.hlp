@@ -1,0 +1,26 @@
+.-
+help for ^mcm^
+.-
+
+Implementing Mobility Contrast Model
+----------------------
+
+Description
+-----------
+
+^mcm^ Implementing Mobility Contrast Model.
+     
+^Note:^ Requires mcm.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^reg mcm origin destination^
+ . ^mcm mcm origin destination, origin(origin) destination(destination)^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
