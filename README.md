@@ -1,6 +1,8 @@
 # mcm
 Implementing Mobility Contrast Model Use mcm With STATA 19
 
+https://www.youtube.com/watch?v=COJWInagEY8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
